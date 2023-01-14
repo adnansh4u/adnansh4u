@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnansh4u
 - 👀 I’m interested in Coding & Sports
 - 🌱 I’m currently learning Flutter & Dart
-- 📫 How to reach me insta.com/adnansh4u
+- 📫 here's me on insta.com/adnansh4u
 
 <!---
 adnansh4u/adnansh4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
